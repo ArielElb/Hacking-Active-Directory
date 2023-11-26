@@ -38,6 +38,11 @@ https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4
 
 ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/d82819ee-059e-4f47-8a42-ef9df98192f2)
 
+3. trying to pass the ntlm hash:
+![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/04c932f7-3749-4896-99ee-134effbf2b83)
+
+
+
 pass the hash explanation: https://en.wikipedia.org/wiki/Pass_the_hash
 
 
