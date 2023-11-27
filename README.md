@@ -45,6 +45,13 @@ crackmapexec smb 192.168.59.0/24 -u fcastle -d marval.local -p Ari123a123 --sam
 4. amazinng resource : - https://www.giac.org/paper/gcih/34273/pass-the-hash-windows-10/174913
 pass the hash explanation:: -https://en.wikipedia.org/wiki/Pass_the_hash
 
+## Domain Escalation with Token Impersonation:
+
+- https://medium.com/r3d-buck3t/domain-escalation-with-token-impersonation-bc577db55a0f
+
+## kerberoasting attack:
+
+- https://medium.com/@Shorty420/kerberoasting-9108477279cc
 
 
 
