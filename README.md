@@ -1,6 +1,7 @@
 # Hacking-Active-Directory
 Hacking Active Directory  notes based on https://www.youtube.com/watch?v=VXxH4n684HE&amp;t=11955s video
 
+- https://juggernaut-sec.com/ntlm-relay-attacks/
 
 ## IPV6 DNS ATTACK + ldap relay using ntlmrelayx and mitm6 :
 
