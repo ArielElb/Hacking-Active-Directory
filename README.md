@@ -67,5 +67,5 @@ You need valid credentials inside the domain. "
     ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/b157daa9-2d4f-4c27-89d4-6d0ec7d8226b)
 
   we got the SQL service domain password that was misconfigoured and is a domain admin 
- - Migations :  use strong passwords and follow the least privilege priniciple !
+ - Mitigations :  use strong passwords and follow the least privilege priniciple !
 
