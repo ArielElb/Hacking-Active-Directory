@@ -9,7 +9,7 @@ https://medium.com/@n3tworkn1nja/ipv6-dns-take-over-attack-fd8db1cd25f3
 ## ntlm relay
 
 https://www.digitalwhisper.co.il/files/Zines/0x6D/DW109-1-reNTLMRelay.pdf
-
+https://systemweakness.com/difference-between-nt-lm-ntlm-net-ntlmv1-v2-ntlmv1-v2-hashes-c6df0afde008
 ## smb relay :
 
 https://tcm-sec.com/smb-relay-attacks-and-how-to-prevent-them/
@@ -22,7 +22,7 @@ https://systemweakness.com/what-is-llmnr-poisoning-attack-and-how-to-secure-agai
 ## LM, NTLM, Net-NTLMv2 hashes explained:
 
 https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4
-
+https://systemweakness.com/difference-between-nt-lm-ntlm-net-ntlmv1-v2-ntlmv1-v2-hashes-c6df0afde008
 
 ## Post Compromise Enumeration tools : powerview , bloodhound :
 
