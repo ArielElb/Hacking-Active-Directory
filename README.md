@@ -4,23 +4,23 @@ Hacking Active Directory  notes based on https://www.youtube.com/watch?v=VXxH4n6
 
 ## IPV6 DNS ATTACK + ldap relay using ntlmrelayx and mitm6 :
 
-https://medium.com/@n3tworkn1nja/ipv6-dns-take-over-attack-fd8db1cd25f3
+- https://medium.com/@n3tworkn1nja/ipv6-dns-take-over-attack-fd8db1cd25f3
 
 ## ntlm relay
-https://infosecwriteups.com/abusing-ntlm-relay-and-pass-the-hash-for-admin-d24d0f12bea0
-https://www.digitalwhisper.co.il/files/Zines/0x6D/DW109-1-reNTLMRelay.pdf
+- https://infosecwriteups.com/abusing-ntlm-relay-and-pass-the-hash-for-admin-d24d0f12bea0
+- https://www.digitalwhisper.co.il/files/Zines/0x6D/DW109-1-reNTLMRelay.pdf
 ## smb relay :
 
-https://tcm-sec.com/smb-relay-attacks-and-how-to-prevent-them/
+- https://tcm-sec.com/smb-relay-attacks-and-how-to-prevent-them/
 
 ## LLMNR POISENING :
 
-https://systemweakness.com/what-is-llmnr-poisoning-attack-and-how-to-secure-against-it-417f3b415e51
+- https://systemweakness.com/what-is-llmnr-poisoning-attack-and-how-to-secure-against-it-417f3b415e51
 
 
 ## LM, NTLM, Net-NTLMv2 hashes explained:
-https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4
-https://systemweakness.com/difference-between-nt-lm-ntlm-net-ntlmv1-v2-ntlmv1-v2-hashes-c6df0afde008
+- https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4
+- https://systemweakness.com/difference-between-nt-lm-ntlm-net-ntlmv1-v2-ntlmv1-v2-hashes-c6df0afde008
 
 ## Post Compromise Enumeration tools : powerview , bloodhound :
 
@@ -42,8 +42,8 @@ crackmapexec smb 192.168.59.0/24 -u fcastle -d marval.local -p Ari123a123 --sam
 3. trying to pass the ntlm hash:
 ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/04c932f7-3749-4896-99ee-134effbf2b83)
 
-4. amazinng resource : https://www.giac.org/paper/gcih/34273/pass-the-hash-windows-10/174913
-pass the hash explanation: https://en.wikipedia.org/wiki/Pass_the_hash
+4. amazinng resource : - https://www.giac.org/paper/gcih/34273/pass-the-hash-windows-10/174913
+pass the hash explanation:: -https://en.wikipedia.org/wiki/Pass_the_hash
 
 
 
