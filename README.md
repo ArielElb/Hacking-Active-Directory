@@ -66,5 +66,5 @@ You need valid credentials inside the domain. "
     ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/43e346c5-f627-4728-8ba9-6e5e1ce2cde6)
     ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/b157daa9-2d4f-4c27-89d4-6d0ec7d8226b)
 
- " we got the SQL service domain password that was misconfigoured and is a domain admin "
+  we got the SQL service domain password that was misconfigoured and is a domain admin 
 
