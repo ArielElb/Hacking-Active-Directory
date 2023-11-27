@@ -9,6 +9,7 @@ Hacking Active Directory  notes based on https://www.youtube.com/watch?v=VXxH4n6
 ## ntlm relay
 - https://infosecwriteups.com/abusing-ntlm-relay-and-pass-the-hash-for-admin-d24d0f12bea0
 - https://www.digitalwhisper.co.il/files/Zines/0x6D/DW109-1-reNTLMRelay.pdf
+
 ## smb relay :
 
 - https://tcm-sec.com/smb-relay-attacks-and-how-to-prevent-them/
