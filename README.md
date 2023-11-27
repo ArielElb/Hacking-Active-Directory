@@ -42,8 +42,7 @@ crackmapexec smb 192.168.59.0/24 -u fcastle -d marval.local -p Ari123a123 --sam
 3. trying to pass the ntlm hash:
 ![image](https://github.com/ArielElb/Hacking-Active-Directory/assets/94087682/04c932f7-3749-4896-99ee-134effbf2b83)
 
-
-
+4. amazinng resource : https://www.giac.org/paper/gcih/34273/pass-the-hash-windows-10/174913
 pass the hash explanation: https://en.wikipedia.org/wiki/Pass_the_hash
 
 
